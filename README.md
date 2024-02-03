@@ -1,2 +1,2 @@
 # opRecipes
-This is a small project of recipes website to practice and condese html.
+This is a small project of a recipes website to practice and condese html.
